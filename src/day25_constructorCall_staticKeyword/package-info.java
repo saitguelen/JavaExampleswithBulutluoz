@@ -1,0 +1,1 @@
+package day25_constructorCall_staticKeyword;
