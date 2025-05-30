@@ -28,7 +28,9 @@ public class C03_MultiDimensioanalArrays {
         System.out.println(Arrays.toString(arr[3])); // {1,2,3,6,8} ==> [1, 2, 3, 6, 8]
 
         System.out.println(  Arrays.toString(arr)  );
+
         // [[I@e580929, [I@2752f6e2, [I@1cd072a9, [I@7c75222b] referanslarini yazdirir.
+
 
         System.out.println(Arrays.deepToString(arr)); // [[2, 3, 7], [3, 5], [4], [1, 2, 3, 6, 8]]
 

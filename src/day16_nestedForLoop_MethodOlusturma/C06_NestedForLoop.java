@@ -18,6 +18,7 @@ public class C06_NestedForLoop {
      */
 
 		Scanner scanner = new Scanner(System.in);
+
 		System.out.println("L�tfen satir sayisini giriniz..");
 		int satir = scanner.nextInt();
 		System.out.println("L�tfen s�tun sayisini giriniz..");
@@ -25,6 +26,7 @@ public class C06_NestedForLoop {
 		
 		for(int i=1; i<=satir; i++) {
 			for(int j=1;j<=sutun;j++) {
+
 				System.out.print(i+j-1);
 			}
 			
